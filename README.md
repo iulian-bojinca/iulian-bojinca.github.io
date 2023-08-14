@@ -1,3 +1,3 @@
 # Hello World
 
-Welcome to my psychology content page!
+Welcome to my programming content page!
